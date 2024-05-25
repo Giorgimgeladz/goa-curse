@@ -1,0 +1,2 @@
+print("giorgi") giorgi gvritishvili
+print("giorgi") gobron witlauri 
